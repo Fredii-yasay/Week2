@@ -1,0 +1,14 @@
+C:\Users\frede\source\repos\Week2\Assignment10\bin\Debug\net8.0\Assignment10.exe
+C:\Users\frede\source\repos\Week2\Assignment10\bin\Debug\net8.0\Assignment10.deps.json
+C:\Users\frede\source\repos\Week2\Assignment10\bin\Debug\net8.0\Assignment10.runtimeconfig.json
+C:\Users\frede\source\repos\Week2\Assignment10\bin\Debug\net8.0\Assignment10.dll
+C:\Users\frede\source\repos\Week2\Assignment10\bin\Debug\net8.0\Assignment10.pdb
+C:\Users\frede\source\repos\Week2\Assignment10\obj\Debug\net8.0\Assignment10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frede\source\repos\Week2\Assignment10\obj\Debug\net8.0\Assignment10.AssemblyInfoInputs.cache
+C:\Users\frede\source\repos\Week2\Assignment10\obj\Debug\net8.0\Assignment10.AssemblyInfo.cs
+C:\Users\frede\source\repos\Week2\Assignment10\obj\Debug\net8.0\Assignment10.csproj.CoreCompileInputs.cache
+C:\Users\frede\source\repos\Week2\Assignment10\obj\Debug\net8.0\Assignment10.dll
+C:\Users\frede\source\repos\Week2\Assignment10\obj\Debug\net8.0\refint\Assignment10.dll
+C:\Users\frede\source\repos\Week2\Assignment10\obj\Debug\net8.0\Assignment10.pdb
+C:\Users\frede\source\repos\Week2\Assignment10\obj\Debug\net8.0\Assignment10.genruntimeconfig.cache
+C:\Users\frede\source\repos\Week2\Assignment10\obj\Debug\net8.0\ref\Assignment10.dll
